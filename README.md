@@ -296,34 +296,102 @@ for q in range(t):
 ```
 
 
-# Problem - 017
+# کشف معادله | Discover the equation
 
-<h4>Question</h4>
-<h6> </h6>
+<h4>Write a program that takes n and the coordinates of n points (x and y respectively) and declares which of the graphs these points belong to and prints the number of the graph and if it does not belong to any of them, prints the statement No ones .
 
-<h6>Python Solution</h6>
+  In order for a group of points to belong to a graph, it is enough for each of the n points that the difference between the y point and the y graph at that point is less than or equal to 0.2.
 
-```python
-
-```
-
-
-# Problem - 018
-
-<h4>Question</h4>
-<h6> </h6>
+  Define a separate function for each of the following equations.</h4>
 
 <h6>Python Solution</h6>
 
 ```python
+def one(x):
+    return x - (x // 1)
+
+def two(x):
+    return x ** 2 + x
+
+def three(x):
+    return abs(-(x ** 3) + 1) + x ** 3
+
+
+n = int(input())
+cnt = [0, 0, 0]
+
+for i in range(n):
+    x,y = map(float,input().split())
+    if abs(y - one(x)) <= 0.2:
+        cnt[0] += 1
+    if abs(y - two(x)) <= 0.2:
+        cnt[1] += 1
+    if abs(y - three(x)) <= 0.2:
+        cnt[2] += 1
+
+found = False
+for i in range(3):
+    if cnt[i] == n:
+        print(i + 1)
+        found = True
+if found == False:
+    print("No ones")
+
 
 ```
 
 
-# Problem - 019
+# آلفا قنطورس | Alpha Centauri
 
-<h4>Question</h4>
-<h6> </h6>
+<h4>In one of the planets of the Alpha Centauri system (Alpha Centauri - the closest star system to the solar system), strange creatures live and each of them has a different number of fingers.
+  Some of them, like us, have ten fingers on their two hands, and some have 16 fingers, some have 2 fingers, some have 6 fingers, etc., for this reason, there are different schools for different beings on this planet, and in each school, numbers are Children are taught on a different basis.
+
+Kianush, who is one of the inhabitants of this planet and has 10 fingers, is very interested in programming, he wants to write a program that takes a number in base 10 and moves it to the desired base.
+
+Help him solve this programming problem.</h4>
+
+<h6>Python Solution</h6>
+
+```python
+def NumberToChar(number):
+    if 0 <= number <= 9:
+        return chr(ord('0') + number)
+
+    else:
+        return chr(ord('A') + number - 10)
+
+
+def baseConverter(keeper, number, base):
+    if base == 10:
+        return str(number)
+
+    else:
+        while True:
+            if number > 0:
+                keeper += NumberToChar(number % base)
+                number = int(number / base)
+            else:
+                break
+
+        return keeper[::-1]
+
+
+n, b = input().split(" ")
+print(baseConverter(keeper="", number=int(n), base=int(b)))
+```
+
+
+# اتل متل توتوله | Atal Matal Tutule
+
+<h4>After Mohammad and Irfan realized that their minds were far apart in a strange way, they tried to fix the distance between their minds with an even stranger way!
+
+Together with n−2 of their friends, they play the game Ettelmoteltotole. (Note that there are n people in total) Now Irfan, who thinks this game is very ridiculous, wants you to write a program that tells the result of the game at each stage.
+
+More precisely, in each stage of the game, a poem with k words is read, and after saying each word, we go from one leg to the next, and if we reach the last leg, we start again from the beginning. At the end of each step, the foot on which the last word was read is removed. Note that each person has two legs and the first leg is the leg of person number 1.
+
+Now your program should print the progress of each step in 2n−1 lines (the number of game steps it takes until only one leg remains) (see the examples for a better understanding). Finally, determine the winner of the game.
+
+Note that in the case that at the end there is only one person left on both legs, you should not print the last step and the winner will be determined.</h4>
 
 <h6>Python Solution</h6>
 
