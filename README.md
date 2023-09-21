@@ -6,273 +6,146 @@
 
 + I try to do this in **my own way**, but you can solve the problems according to **your own point of view**. <br>
 
-+ در این ریپازیتوری،سعی کردم تا تمرینات دوره برنامه نویسی مقدماتی کوئرا کالج را با استفاده از پایتون حل کنم
-+ تلاش کردم تا اینکارو به روش خودم انجام بدم، همچنین شما هم میتونید با توجه به دیدگاه خودتون به حل مسائل بپردازید
-
-<p>
-<h4>مقدمه</h4> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---001">الگوریتم تمرینی-001</a> <br> <br>
-<h4>ورودی،خروجی،متغیر</h4> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---002">سلام به ما-002</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---003">مستطیل فضایی-003</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---004">مثلث تو پر-004</a><br> 
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---005">چارتاییا-005</a><br> 
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---006">جا به جا-006</a><br> 
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---007">صحیح ساز-007</a> <br> <br>
-<h4>عملگرهای ریاضی</h4> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---008">چارتاییا-008</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---009">کاشی کاری کف استخر-009</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---010">شطرنج حرفه ای-010</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---011">یکان-011</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---012">زمان سنج-012</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---013">ساعت آینه ای-013</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---014">اختلال در اینترنت-014</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---015">مستطیل رشته ای-015</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---016">بهروز و پرینتر خراب-016</a> <br> <br>
-<h4>ساختار شرط</h4> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---017">چند شدی؟-017</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---018">یخ-018</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---019">لامپ اضافی خاموش-019</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---020">بیشینه چهار-020</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---021">مثلثه؟-021</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---022">مثلث قائم-022</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---023">پیتزا هرچه بیشتر بهتر-023</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---024">طبابت هویج و شلغم-024</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---025">دوربین مداربسته-025</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---026">صدگان خسته-026</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---027">دیباگ-027</a> <br> <br>
-<h4>ساختار حلقه</h4> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---028">سوال زرد-028</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---029">فاکتوریل-029</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---030">فرد چاپ کن-030</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---031">رشته خرد کن-031</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---032">حلقه ورودی-032</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---033">تاس-033</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---034">سیونِبِ سکعَربَ-034</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---035">ب م م ترک ها-035</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---036">کامل بودن یا نبودن-036</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---037">جدول ضرب جادویی-037</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---038">خیلی شفتالو-038</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---039">دیباگ-039</a> <br> <br>
-<h4>تمرین دوره ای 1</h4> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---040">امتحان سنج-040</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---041">جادوی ضد تقلب-041</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---042">آخر و عاقبت تقلب-042</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---043">معجون نجات-043</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---044">همایش تنبیهی-044</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---045">هم اخلاق-045</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---046">هندونه خوری-046</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---047">خرهای جنگل سیاه-047</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---048">دایره عجیب-048</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---048">بچسبان-049</a> <br> <br>
-<h4>تابع</h4> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---050">چارتاییا-050</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---051">ب م م آلبوم-051</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---052">چارتاییا-052</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---053">اس تی یاب-053</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---054">مربع تو پر-054</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---055">اعداد اول-055</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---056">دیباگ-056</a> <br> <br>
-<h4>لیست</h4> <br> 
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---057">برعکس چاپ کن-057</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---058">میانگین زیادی-058</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---059">بازی هویجی-059</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---060">شیفت-060</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---061">ماژیک های بهروز-061</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---062">تا کی مقلوب-062</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---063">تغییرات آرایوی-063</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---064">و حتی ساده تر-064</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---065">جمع دو ماتریس-065</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---066">آسمان شکرآباد-066</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---067">نه به واج آرایی-067</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---068">دیباگ-068</a> <br> <br>
-<h4>تابع بازگشتی</h4> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---069">دنباله ساده-069</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---070">فیبوناچی ها-070</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---071">تک تک اردک-071</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---072">مثلث خیام پاسکال-072</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---073">سه صفر-073</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---074">برج هانوی-074</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---075">دیباگ-075</a> <br> <br>
-<h4>مرتب سازی و جستجو</h4> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---076">نزولی-076</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---077">صعودی-077</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---078">دانشجویابی-078</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---079">تقلب در شب یلدا-079</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---080">مرتب سازی خفن-080</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---081">همه را بیاب-081</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---082">دیتابیس نسبتا بزرگ-082</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---083">رشته تو رشته-083</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---084">در زمان کمتری بیاب-084</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---085">دیتابیس خیلی بزرگ-085</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---086">دیباگ-086</a> <br> <br>
-<h4>تمرین دوره ای 2</h4>  <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---087">تست بینایی-087</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---088">اول بینی-088</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---089">در جستجوی پدر-089</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---090">باغچه رز-090</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---091">اتل متل توتوله-091</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---092">آلفا قنطورس-092</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---093">کشف معادله-093</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---094">شماره رند-094</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---095">سماق فارم-095</a><br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---096">مربع جادویی-096</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---097">رشته های وارواژه-097</a> <br>
-- <a href="https://github.com/rezaaebraahimi/Quera-python-fundamental/tree/main#problem---098">رشته بلند-098</a><br></p>
 
 <br> <br>
 
-# Problem - 001
 
-<h4>Question</h4>
-<h6> </h6>
+# رشته بلند | Long string
+
+<h4>Ali, who was able to design a system to simulate the football league the other day, has become somewhat proud and boasts of his abilities. Now he wants to implement another system for validating strings, but because of the fatigue of the previous project, he doesn't want his system to be too complicated!
+
+This system initially has a number as a good amount, whose value is equal to zero.
+
+Also, to get started, a string consisting of English uppercase and lowercase letters and the characters # and ! And ? And . It is given to a maximum length of 1000.
+  Also note that the string does not contain spaces. We call this string a suspicious string.
+
+Now, there are operations that are applied on this string and with it the degree of validity of the string can be recognized.</h4>
+
 
 <h6>Python Solution</h6>
 
 ```python
-
-```
-
-# Problem - 002
-
-<h4>Question</h4>
-<h6> </h6>
-
-<h6>Python Solution</h6>
-
-```python
-
-```
-
-# Problem - 003
-
-<h4>Question</h4>
-<h6> </h6>
-
-<h6>Python Solution</h6>
-
-```python
-
-```
+def copy(key, count):
+    global suspiciousString
+    text = key * count
+    suspiciousString = text + suspiciousString[len(text):]
 
 
-# Problem - 004
-
-<h4>Question</h4>
-<h6> </h6>
-
-<h6>Python Solution</h6>
-
-```python
-
-```
+def compare(key):
+    global suspiciousString
+    global goodLevel
+    if suspiciousString == key:
+        goodLevel += 1
 
 
-# Problem - 005
-
-<h4>Question</h4>
-<h6> </h6>
-
-<h6>Python Solution</h6>
-
-```python
-
-```
+def substr(key, count):
+    global suspiciousString
+    global goodLevel
+    if suspiciousString.count(key) == count:
+        goodLevel += 1
 
 
-# Problem - 006
-
-<h4>Question</h4>
-<h6> </h6>
-
-<h6>Python Solution</h6>
-
-```python
-
-```
+def attach(key, count, str):
+    global suspiciousString
+    global goodLevel
+    key += str
+    if suspiciousString.count(key) == count:
+        goodLevel += 1
 
 
-# Problem - 007
-
-<h4>Question</h4>
-<h6> </h6>
-
-<h6>Python Solution</h6>
-
-```python
-
-```
+def length(count):
+    global suspiciousString
+    global goodLevel
+    if len(suspiciousString) == count:
+        goodLevel += 1
 
 
-# Problem - 008
+def loop(inputer):
+    global countCommand
 
-<h4>Question</h4>
-<h6> </h6>
+    if inputer == "Is it right or not?":
+        return
 
-<h6>Python Solution</h6>
+    inputer = inputer.split(" ")
 
-```python
+    countCommand += 1
 
-```
+    if "copy" == inputer[0]:
+        copy(key=inputer[1], count=int(inputer[2]))
+
+    elif "compare" == inputer[0]:
+        compare(key=inputer[1])
+
+    elif "substr" == inputer[0]:
+        substr(key=inputer[1], count=int(inputer[2]))
+
+    elif "attach" == inputer[0]:
+        attach(key=inputer[1], count=int(inputer[2]), str=inputer[3])
+
+    elif "length" == inputer[0]:
+        length(count=int(inputer[1]))
+
+    loop(input())
 
 
-# Problem - 009
+goodLevel = 0
+suspiciousString = input()
+countCommand = 0
 
-<h4>Question</h4>
-<h6> </h6>
+loop(input())
 
-<h6>Python Solution</h6>
+if goodLevel >= (countCommand // 2):
+    print("Eyval")
 
-```python
-
+else:
+    print("HeifShod")
 ```
 
 
-# Problem - 010
+# رشته‌های وارواژه | Vocabulary strings
 
-<h4>Question</h4>
-<h6> </h6>
+<h4>In complete disbelief, Muhammad also said this famous sentence and proved to everyone that the strange method they took to close the distance between their minds worked! Now the distance between Muhammad and Irfan's mind tends to zero and they are very happy! Before finally starting to develop the project, they decided to code together a little to warm up, but unfortunately, they still don't have enough command of Python coding.
+
+Since none of Mohammad and Irfan's work was normal, learning Python is no exception to this rule! They asked you to help them solve a question so that they can fully master Python!
+
+A string S is a synonym for a string T if it is possible to get the string T by permuting the letters of the string S.
+  For example, aba is a wildcard for the string aab, but not a wildcard for the string aaa.
+
+The S string is a string that contains English lowercase letters and a number of characters ? Is. Also, the P string is a string that only contains English lowercase letters. A substring of S is called a good substring if it is possible to obtain a substring of P by placing arbitrary letters instead of ?.</h4>
+
 
 <h6>Python Solution</h6>
 
 ```python
+s = input()
+s = list(s)
 
-```
+p = input()
+p = list(p)
 
+sLen = len(s)
+pLen = len(p)
 
-# Problem - 011
+noSolutions = 0
+convertedArray = 26 * [0]
+for i in range(pLen):
+    convertedArray[ord(p[i]) - ord('a')] += 1
 
-<h4>Question</h4>
-<h6> </h6>
+for i in range(sLen - pLen + 1):
+    tmpConvertedArray = convertedArray.copy()
+    foundChars = pLen
+    for j in range(pLen):
+        if s[i + j] == '?':
+            foundChars -= 1
+        elif tmpConvertedArray[ord(s[i + j]) - ord('a')] > 0:
+            foundChars -= 1
+            tmpConvertedArray[ord(s[i + j]) - ord('a')] -= 1
+        else:
+            break
 
-<h6>Python Solution</h6>
-
-```python
-
-```
-
-
-# Problem - 012
-
-<h4>Question</h4>
-<h6> </h6>
-
-<h6>Python Solution</h6>
-
-```python
-
-```
-
-
-# Problem - 013
-
-<h4>Question</h4>
-<h6> </h6>
-
-<h6>Python Solution</h6>
-
-```python
-
+    if foundChars == 0:
+        noSolutions += 1
+print(noSolutions)
 ```
 
 
