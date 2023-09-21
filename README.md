@@ -9,6 +9,65 @@
 
 <br> <br>
 
+<div align="center">
+<table>
+  <tr>
+    <th>Problem Description | شرح مسئله</th>
+    <th>Solution</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%B1%D8%B4%D8%AA%D9%87-%D8%A8%D9%84%D9%86%D8%AF--long-string">رشته بلند | Long string</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/LongString.py">File.py</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%B1%D8%B4%D8%AA%D9%87%D9%87%D8%A7%DB%8C-%D9%88%D8%A7%D8%B1%D9%88%D8%A7%DA%98%D9%87--vocabulary-strings">رشته‌های وارواژه | Vocabulary strings</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VocabString.py">File.py</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D9%85%D8%B1%D8%A8%D8%B9-%D8%AC%D8%A7%D8%AF%D9%88%DB%8C%DB%8C--magic-square">مربع جادویی | Magic Square</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/MagicSquare.py">File.py</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D9%85%D8%B2%D8%B1%D8%B9%D9%87-%D8%B3%D9%85%D8%A7%D9%82--sumac-farm">مزرعه سماق | Sumac Farm</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/SumacFarm.py">File.py</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B1%D9%86%D8%AF--catchy-number">شماره رند | Catchy Number</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/CatchyNumber.py">File.py</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%DA%A9%D8%B4%D9%81-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D9%87--discover-the-equation">کشف معادله | Discover the equation</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/DiscoverTheEquation.py">File.py</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%A2%D9%84%D9%81%D8%A7-%D9%82%D9%86%D8%B7%D9%88%D8%B1%D8%B3--alpha-centauri">آلفا قنطورس | Alpha Centauri</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/AlphaCentauri.py">File.py</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%A7%D8%AA%D9%84-%D9%85%D8%AA%D9%84-%D8%AA%D9%88%D8%AA%D9%88%D9%84%D9%87--atal-matal-tutule">اتل متل توتوله | Atal Matal Tutule</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/AtalMatalTutule.py">File.py</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%A8%D8%A7%D8%BA%DA%86%D9%87-%D8%B1%D8%B2--rose-garden">باغچه رز | Rose garden</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/RoseGarden.py">File.py</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%AF%D8%B1-%D8%AC%D8%B3%D8%AA%D8%AC%D9%88%DB%8C-%D9%BE%D8%AF%D8%B1--in-search-of-father">در جستجوی پدر | In search of father</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/InSearchOfFather.py">File.py</a></td>
+  </tr>
+   <tr>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%A7%D9%88%D9%84-%D8%A8%DB%8C%D9%86%DB%8C--find-prime">اول بینی | Find prime</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/FindPrime.py">File.py</a></td>
+  </tr>
+   <tr>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%AA%D8%B3%D8%AA-%D8%A8%DB%8C%D9%86%D8%A7%DB%8C%DB%8C--vision-test">تست بینایی | Vision test</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VisionTest.py">File.py</a></td>
+  </tr>
+</table>
+</div>
+
+<br> <br>
+
 
 # رشته بلند | Long string
 
