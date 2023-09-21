@@ -80,85 +80,12 @@ Also, to get started, a string consisting of English uppercase and lowercase let
 
 Now, there are operations that are applied on this string and with it the degree of validity of the string can be recognized.</h4>
 
+<div align="center">
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/LongString.py">---Show Python Solution---</a></h3>
+</div>
 
-<h6>Python Solution</h6>
+<br> <br>
 
-```python
-def copy(key, count):
-    global suspiciousString
-    text = key * count
-    suspiciousString = text + suspiciousString[len(text):]
-
-
-def compare(key):
-    global suspiciousString
-    global goodLevel
-    if suspiciousString == key:
-        goodLevel += 1
-
-
-def substr(key, count):
-    global suspiciousString
-    global goodLevel
-    if suspiciousString.count(key) == count:
-        goodLevel += 1
-
-
-def attach(key, count, str):
-    global suspiciousString
-    global goodLevel
-    key += str
-    if suspiciousString.count(key) == count:
-        goodLevel += 1
-
-
-def length(count):
-    global suspiciousString
-    global goodLevel
-    if len(suspiciousString) == count:
-        goodLevel += 1
-
-
-def loop(inputer):
-    global countCommand
-
-    if inputer == "Is it right or not?":
-        return
-
-    inputer = inputer.split(" ")
-
-    countCommand += 1
-
-    if "copy" == inputer[0]:
-        copy(key=inputer[1], count=int(inputer[2]))
-
-    elif "compare" == inputer[0]:
-        compare(key=inputer[1])
-
-    elif "substr" == inputer[0]:
-        substr(key=inputer[1], count=int(inputer[2]))
-
-    elif "attach" == inputer[0]:
-        attach(key=inputer[1], count=int(inputer[2]), str=inputer[3])
-
-    elif "length" == inputer[0]:
-        length(count=int(inputer[1]))
-
-    loop(input())
-
-
-goodLevel = 0
-suspiciousString = input()
-countCommand = 0
-
-loop(input())
-
-if goodLevel >= (countCommand // 2):
-    print("Eyval")
-
-else:
-    print("HeifShod")
-```
 
 
 # رشته‌های وارواژه | Vocabulary strings
@@ -172,41 +99,10 @@ A string S is a synonym for a string T if it is possible to get the string T by 
 
 The S string is a string that contains English lowercase letters and a number of characters ? Is. Also, the P string is a string that only contains English lowercase letters. A substring of S is called a good substring if it is possible to obtain a substring of P by placing arbitrary letters instead of ?.</h4>
 
-
-<h6>Python Solution</h6>
-
-```python
-s = input()
-s = list(s)
-
-p = input()
-p = list(p)
-
-sLen = len(s)
-pLen = len(p)
-
-noSolutions = 0
-convertedArray = 26 * [0]
-for i in range(pLen):
-    convertedArray[ord(p[i]) - ord('a')] += 1
-
-for i in range(sLen - pLen + 1):
-    tmpConvertedArray = convertedArray.copy()
-    foundChars = pLen
-    for j in range(pLen):
-        if s[i + j] == '?':
-            foundChars -= 1
-        elif tmpConvertedArray[ord(s[i + j]) - ord('a')] > 0:
-            foundChars -= 1
-            tmpConvertedArray[ord(s[i + j]) - ord('a')] -= 1
-        else:
-            break
-
-    if foundChars == 0:
-        noSolutions += 1
-print(noSolutions)
-```
-
+<div align="center">
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VocabString.py">---Show Python Solution---</a></h3>
+</div>
+<br><br>
 
 # مربع جادویی | Magic Square
 
@@ -215,7 +111,7 @@ print(noSolutions)
 A solution to make a magic square of odd order (when n is odd), put the minimum of m numbers in the house number (n + 1)/2 of the first row and then start putting numbers from number k=m+1 according to the algorithm is below
   It should be noted that the highest row is number one, the lowest row is number n, the leftmost column is number one, and the rightmost column is number n.</h4>
 
-<img src="https://bayanbox.ir/view/4979329822923064904/10.png" alt="magic square">
+<div align="center"><img src="https://bayanbox.ir/view/4979329822923064904/10.png" alt="magic square"></div>
 
 <h4>
 move right-up; So if the current house is row i and column j, the next house will be row i-1 and column j+1.
@@ -227,34 +123,12 @@ If the house is already filled by a number, increase the row number by one (go d
 Put the number k in the house. If all the houses are full, the magic square is made; Otherwise, increase the number by one and repeat step one.
 
 In the figure below, m is equal to or one and n is equal to three. The steps of this algorithm are observed in order. As you can see, the output of the algorithm is a magic square, the sum of each row, column or diameter is equal to 15. Now write a program that first receives the number n and then the number m mentioned above and produces the magic square according to the mentioned algorithm.</h4>
-<img src="https://bayanbox.ir/view/5703298927176223485/11.png" alt="magic square algorithm">
+<div align="center"><img src="https://bayanbox.ir/view/5703298927176223485/11.png" alt="magic square algorithm"> </div>
 
-<h6>Python Solution</h6>
-
-```python
-def solve(n, m):
-    magic = [[0 for i in range(n)] for j in range(n)]
-    i = 0
-    j = n // 2
-    
-    for k in range(n ** 2):
-        magic[i][j] = m
-        m += 1
-        if magic[(i - 1) % n][(j + 1) % n]:
-            i += 1
-        else:
-            i = (i - 1) % n
-            j = (j + 1) % n
-    
-    return magic
-
-n, m = map(int, input().split())
-for row in solve(n, m):
-    for item in row:
-        print(item, end=' ')
-    print()
-
-```
+<div align="center">
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/MagicSquare.py">---Show Python Solution---</a></h3>
+</div>
+<br><br>
 
 
 # مزرعه سماق | Sumac Farm
@@ -272,32 +146,10 @@ a_1 >= a_2 >= ... >= a_i < ... < a_n
 Note that i can be equal to n.</h4>
 
 
-<h6>Python Solution</h6>
-
-```python
-n = int(input())
-height = list(map(int, input().split()))
-k = 0
-t = 0
-if n != 1 and height[k] <= height[k + 1]:
-    for i in range(n - 1):
-        if height[i] > height[i + 1]:
-            for j in range(i, n - 1):
-                if height[j] <= height[j + 1]:
-                    t += 1
-                    
-elif n != 1 and height[k] >= height[k + 1]:
-    for a in range(n - 1):
-        if height[a] < height[a + 1]:
-            for b in range(a, n - 1):
-                if height[b] >= height[b + 1]:
-                    t += 1
-if t > 0:
-    print("No")
-else:
-    print("Yes")
-```
-
+<div align="center">
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/SumacFarm.py">---Show Python Solution---</a></h3>
+</div>
+<br><br>
 
 
 # شماره رند | Catchy Number
@@ -314,45 +166,10 @@ Uncle Scrooge is picking catchy numbers and asks you to help him figure out catc
 </h4>
 <h6> </h6>
 
-<h6>Python Solution</h6>
-
-```python
-def cond1(phone):
-    for i in phone:
-        cnt = 0
-        for j in phone:
-            if i == j:
-                cnt += 1
-        if cnt >= 4:
-            return True
-    return False
-
-def cond2(phone):
-    duplicated =  1
-    for i in range(1, len(phone)):
-        if phone[i] == phone[i - 1]:
-            duplicated += 1
-            if duplicated >= 3:
-                return True
-        else:
-            duplicated = 1
-    return False
-
-def cond3(phone):
-    for i in range(len(phone) // 2):
-        if phone[i] != phone[len(phone) - 1 - i]:
-            return False
-    return True
-
-t = int(input())
-for q in range(t):
-    phone = input()
-    if cond1(phone) or cond2(phone) or cond3(phone):
-        print("Ronde!")
-    else:
-        print("Rond Nist")
-
-```
+<div align="center">
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/CatchyNumber.py">---Show Python Solution---</a></h3>
+</div>
+<br><br>
 
 
 # کشف معادله | Discover the equation
@@ -363,41 +180,10 @@ for q in range(t):
 
   Define a separate function for each of the following equations.</h4>
 
-<h6>Python Solution</h6>
-
-```python
-def one(x):
-    return x - (x // 1)
-
-def two(x):
-    return x ** 2 + x
-
-def three(x):
-    return abs(-(x ** 3) + 1) + x ** 3
-
-
-n = int(input())
-cnt = [0, 0, 0]
-
-for i in range(n):
-    x,y = map(float,input().split())
-    if abs(y - one(x)) <= 0.2:
-        cnt[0] += 1
-    if abs(y - two(x)) <= 0.2:
-        cnt[1] += 1
-    if abs(y - three(x)) <= 0.2:
-        cnt[2] += 1
-
-found = False
-for i in range(3):
-    if cnt[i] == n:
-        print(i + 1)
-        found = True
-if found == False:
-    print("No ones")
-
-
-```
+<div align="center">
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/DiscoverTheEquation.py">---Show Python Solution---</a></h3>
+</div>
+<br><br>
 
 
 # آلفا قنطورس | Alpha Centauri
@@ -409,35 +195,10 @@ Kianush, who is one of the inhabitants of this planet and has 10 fingers, is ver
 
 Help him solve this programming problem.</h4>
 
-<h6>Python Solution</h6>
-
-```python
-def NumberToChar(number):
-    if 0 <= number <= 9:
-        return chr(ord('0') + number)
-
-    else:
-        return chr(ord('A') + number - 10)
-
-
-def baseConverter(keeper, number, base):
-    if base == 10:
-        return str(number)
-
-    else:
-        while True:
-            if number > 0:
-                keeper += NumberToChar(number % base)
-                number = int(number / base)
-            else:
-                break
-
-        return keeper[::-1]
-
-
-n, b = input().split(" ")
-print(baseConverter(keeper="", number=int(n), base=int(b)))
-```
+<div align="center">
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/AlphaCentauri.py">---Show Python Solution---</a></h3>
+</div>
+<br><br>
 
 
 # اتل متل توتوله | Atal Matal Tutule
@@ -452,33 +213,12 @@ Now your program should print the progress of each step in 2n−1 lines (the num
 
 Note that in the case that at the end there is only one person left on both legs, you should not print the last step and the winner will be determined.</h4>
 
-<h6>Python Solution</h6>
 
-```python
-n, k = map(int, input().split())
-foots = []
 
-for i in range(1, n + 1):
-    foots.append(i)
-    foots.append(i)
-foot_indx = 0
-foot_cnt = 1
-
-while True:
-    print(foots[foot_indx],end = ' ')
-    rmv = False
-    if foot_cnt % k == 0:
-        foots.pop(foot_indx)
-        rmv = True
-        print()           
-    if len(foots) == 1 or (len(foots) == 2 and foots[0] == foots[1]):
-        print('winner:%d'%foots[0])
-        break
-    foot_cnt += 1
-    if rmv == False:
-        foot_indx += 1
-    foot_indx %= len(foots)
-```
+<div align="center">
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/AtalMatalTutule.py">---Show Python Solution---</a></h3>
+</div>
+<br><br>
 
 
 # باغچه رز | Rose garden
@@ -490,24 +230,10 @@ In this case, the first flower was white twice, which is an even number, so the 
 
 Now, you will be given the number of months of the period and the color of each flower in each month; You have to say at the end of the period that each flower is blessed or not.
 </h4>
-
-<h6>Python Solution</h6>
-
-```python
-n,m = input().split()
-n,m = int(n),int(m)
-
-w_counter = [0 for k in range(n)]
-for i in range(m):
-    colors = input()
-    for j in range(n):
-        if colors[j]=="W":
-            w_counter[j]+=1
-
-output_list = ["F" if x%2!=0 else "B" for x in w_counter]
-print("".join(output_list))
-```
-
+<div align="center">
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/RoseGarden.py">---Show Python Solution---</a></h3>
+</div>
+<br><br>
 
 # در جستجوی پدر | In search of father
 
@@ -524,48 +250,11 @@ It is preferable to write a function for adding the digits of a number, finding 
 
 Note that if you perform many operations, you may face a time limit.</h4>
 
-<h6>Python Solution</h6>
 
-```python
-def digits_sum(x):
-    sum = 0
-    while x > 0:
-        sum += (x % 10)
-        x //= 10
-    return sum
-
-def is_prime(a):
-    if a == 1:
-        return False
-    for i in range(2, a):
-        if a % i == 0:
-            return False
-    return True
-
-def prim_div_sum(x):
-    sum = 0
-    for i in range(2, x + 1):
-        if x % i == 0 and is_prime(i):
-            sum += i
-    return sum
-
-def d(x):
-    return x + digits_sum(x) + prim_div_sum(x)
-
-t = int(input())
-for q in range(t):
-    n = int(input())
-    found = False
-    for x in range(n):
-        if d(x) == n:
-            print("Yes")
-            found = True
-            break
-    if found == False:
-        print("No")
-        
-
-```
+<div align="center">
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/InSearchOfFather.py">---Show Python Solution---</a></h3>
+</div>
+<br><br>
 
 
 # اول بینی | Find prime
@@ -575,26 +264,10 @@ for q in range(t):
   
   The start and end of the interval should not be considered.</h4>
 
-<h6>Python Solution</h6>
-
-```python
-a, b = int(input()), int(input())
-
-result = ""
-for i in range(a + 1, b):
-    count = 0
-    for j in range(1, i + 1):
-        if i % j == 0:
-            count += 1
-
-    if count == 2 and not result:
-        result = str(i)
-    elif count == 2:
-        result += "," + str(i)
-
-print(result)
-```
-
+<div align="center">
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/FindPrime.py">---Show Python Solution---</a></h3>
+</div>
+<br><br>
 
 # تست بینایی | Vision test
 
@@ -604,22 +277,10 @@ Mohammad Rezas places a word of English letters at a distance of two meters from
 
 Mohammad Rezas is in a hurry to give the Quora competition and wants to do the vision test on a computer, so he requested that you write a program that outputs the number of mistakes by the student by taking the input of the word placed in front of the student and the word written by the student.</h4>
 
-<h6>Python Solution</h6>
-
-```python
-letters = int(input())
-original = input()
-student = input()
-
-number = 0
-
-for i in range(letters):
-    if original[i] != student[i]:
-        number += 1
-
-print(number)
-```
-
+<div align="center">
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VisionTest.py">---Show Python Solution---</a></h3>
+</div>
+<br><br>
 
 # Problem - 024
 
