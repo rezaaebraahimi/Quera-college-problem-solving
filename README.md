@@ -537,7 +537,7 @@ print(result)
 ```
 
 
-# Problem - 023
+# تست بینایی | Vision test
 
 <h4>Mohammad Rezas, who passed his entrance exam, wants to participate in all Quora programming competitions; But now it is involved in taking vision test from students applying for driver's license.
 
