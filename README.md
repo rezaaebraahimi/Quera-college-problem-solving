@@ -149,7 +149,7 @@ print(noSolutions)
 ```
 
 
-# Problem - 014
+# مربع جادویی | Magic Square
 
 <h4>A magic square is an n×n matrix in which the numbers m to m + n^2 - 1 are located and the sum of the numbers of each row, each column and each diagonal is equal. The figure below shows a 3x3 magic square where the numbers 1 to 9 are placed and the sum of the numbers of each row, column and diameter is equal to 15.
 
@@ -198,27 +198,100 @@ for row in solve(n, m):
 ```
 
 
-# Problem - 015
+# مزرعه سماق | Sumac Farm
 
-<h4>Question</h4>
-<h6> </h6>
+<h4>Arya wants to buy a terraced farm and cultivate sumac in it. He goes to Bajnaq to offer him a piece of land. Asghar shows Aria a picture of a land. Now Aria wants to see if he can turn this land into a sumac farm or not?
+
+Since sumac is a sensitive plant, it can only be cultivated under certain conditions. Sumac can only be planted in land that has a peak or valley. Each floor is a sequence of n steps, each of which has a certain height, and we denote the height of the i-th step with a_i.
+A land has peaks or valleys if i exists. For the existence of i, one of the following two conditions is sufficient.
+
+
+a_1 <= a_2 <= ... <= a_i > ... > a_n
+
+a_1 >= a_2 >= ... >= a_i < ... < a_n
+
+Note that i can be equal to n.</h4>
+
 
 <h6>Python Solution</h6>
 
 ```python
-
+n = int(input())
+height = list(map(int, input().split()))
+k = 0
+t = 0
+if n != 1 and height[k] <= height[k + 1]:
+    for i in range(n - 1):
+        if height[i] > height[i + 1]:
+            for j in range(i, n - 1):
+                if height[j] <= height[j + 1]:
+                    t += 1
+                    
+elif n != 1 and height[k] >= height[k + 1]:
+    for a in range(n - 1):
+        if height[a] < height[a + 1]:
+            for b in range(a, n - 1):
+                if height[b] >= height[b + 1]:
+                    t += 1
+if t > 0:
+    print("No")
+else:
+    print("Yes")
 ```
 
 
 
-# Problem - 016
+# شماره رند | Catchy Number
 
-<h4>Question</h4>
+<h4>Uncle Scrooge has decided to order a catchy phone number at the end of the year. Uncle Scrooge's number must be 8 digits long and not start with a zero (for example, the phone number 01234567 is not valid).
+  
+Uncle Scrooge believes a phone number is catchy if it has at least one of the following conditions:
+  
+1. There must be a digit that is repeated at least 4 times.
+2. Three consecutive digits in this number are equal.
+3. Be a mirror number. That is, if we write the number from the right, it will be equal to itself.
+
+Uncle Scrooge is picking catchy numbers and asks you to help him figure out catchy numbers. So it gives you t phone numbers and asks you to check which of these t phone numbers are catchy.
+</h4>
 <h6> </h6>
 
 <h6>Python Solution</h6>
 
 ```python
+def cond1(phone):
+    for i in phone:
+        cnt = 0
+        for j in phone:
+            if i == j:
+                cnt += 1
+        if cnt >= 4:
+            return True
+    return False
+
+def cond2(phone):
+    duplicated =  1
+    for i in range(1, len(phone)):
+        if phone[i] == phone[i - 1]:
+            duplicated += 1
+            if duplicated >= 3:
+                return True
+        else:
+            duplicated = 1
+    return False
+
+def cond3(phone):
+    for i in range(len(phone) // 2):
+        if phone[i] != phone[len(phone) - 1 - i]:
+            return False
+    return True
+
+t = int(input())
+for q in range(t):
+    phone = input()
+    if cond1(phone) or cond2(phone) or cond3(phone):
+        print("Ronde!")
+    else:
+        print("Rond Nist")
 
 ```
 
