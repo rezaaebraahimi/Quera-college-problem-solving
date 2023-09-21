@@ -151,12 +151,49 @@ print(noSolutions)
 
 # Problem - 014
 
-<h4>Question</h4>
-<h6> </h6>
+<h4>A magic square is an n×n matrix in which the numbers m to m + n^2 - 1 are located and the sum of the numbers of each row, each column and each diagonal is equal. The figure below shows a 3x3 magic square where the numbers 1 to 9 are placed and the sum of the numbers of each row, column and diameter is equal to 15.
+
+A solution to make a magic square of odd order (when n is odd), put the minimum of m numbers in the house number (n + 1)/2 of the first row and then start putting numbers from number k=m+1 according to the algorithm is below
+  It should be noted that the highest row is number one, the lowest row is number n, the leftmost column is number one, and the rightmost column is number n.</h4>
+
+<img src="https://bayanbox.ir/view/4979329822923064904/10.png" alt="magic square">
+
+<h4>
+move right-up; So if the current house is row i and column j, the next house will be row i-1 and column j+1.
+
+If the row number and column number of the house are from one to n, go to step number 3. Otherwise, if the row number is zero, change the row number to n, and if the column number is n+1, change it to one.
+
+If the house is already filled by a number, increase the row number by one (go down one row); Otherwise, go to step 4.
+
+Put the number k in the house. If all the houses are full, the magic square is made; Otherwise, increase the number by one and repeat step one.
+
+In the figure below, m is equal to or one and n is equal to three. The steps of this algorithm are observed in order. As you can see, the output of the algorithm is a magic square, the sum of each row, column or diameter is equal to 15. Now write a program that first receives the number n and then the number m mentioned above and produces the magic square according to the mentioned algorithm.</h4>
+<img src="https://bayanbox.ir/view/5703298927176223485/11.png" alt="magic square algorithm">
 
 <h6>Python Solution</h6>
 
 ```python
+def solve(n, m):
+    magic = [[0 for i in range(n)] for j in range(n)]
+    i = 0
+    j = n // 2
+    
+    for k in range(n ** 2):
+        magic[i][j] = m
+        m += 1
+        if magic[(i - 1) % n][(j + 1) % n]:
+            i += 1
+        else:
+            i = (i - 1) % n
+            j = (j + 1) % n
+    
+    return magic
+
+n, m = map(int, input().split())
+for row in solve(n, m):
+    for item in row:
+        print(item, end=' ')
+    print()
 
 ```
 
