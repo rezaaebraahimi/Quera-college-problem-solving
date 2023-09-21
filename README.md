@@ -396,55 +396,169 @@ Note that in the case that at the end there is only one person left on both legs
 <h6>Python Solution</h6>
 
 ```python
+n, k = map(int, input().split())
+foots = []
 
+for i in range(1, n + 1):
+    foots.append(i)
+    foots.append(i)
+foot_indx = 0
+foot_cnt = 1
+
+while True:
+    print(foots[foot_indx],end = ' ')
+    rmv = False
+    if foot_cnt % k == 0:
+        foots.pop(foot_indx)
+        rmv = True
+        print()           
+    if len(foots) == 1 or (len(foots) == 2 and foots[0] == foots[1]):
+        print('winner:%d'%foots[0])
+        break
+    foot_cnt += 1
+    if rmv == False:
+        foot_indx += 1
+    foot_indx %= len(foots)
 ```
 
 
-# Problem - 020
+# باغچه رز | Rose garden
 
-<h4>Question</h4>
-<h6> </h6>
+<h4>Wald has a row of roses, each of which wilts and blooms again at the end of each month, and each time you go again it can be white or black.
+  Wold, who knows his flowers well, knows that if after the end of the period (meaning the period of a number of months in a row), the number of times the white flower has given is even, that rose is unlucky and should be picked.
+
+In this case, the first flower was white twice, which is an even number, so the first flower is unblessed and should be picked, but the second flower was white only once, which is an odd number, so it is a good flower.
+
+Now, you will be given the number of months of the period and the color of each flower in each month; You have to say at the end of the period that each flower is blessed or not.
+</h4>
 
 <h6>Python Solution</h6>
 
 ```python
+n,m = input().split()
+n,m = int(n),int(m)
 
+w_counter = [0 for k in range(n)]
+for i in range(m):
+    colors = input()
+    for j in range(n):
+        if colors[j]=="W":
+            w_counter[j]+=1
+
+output_list = ["F" if x%2!=0 else "B" for x in w_counter]
+print("".join(output_list))
 ```
 
 
-# Problem - 021
+# در جستجوی پدر | In search of father
 
-<h4>Question</h4>
-<h6> </h6>
+<h4>We define the function D(x) as: x + the sum of the digits of x + the sum of the prime factors of x.
+  We call x the parent of D(x).
+
+  Write a program that reads a t from the input in the first line, then takes a number from the input in the next line, if that number has a father, it prints Yes in one line and No otherwise.
+
+  For example, number 12 is the father of number 20:
+
+20 = (2+3) + (1+2) + 12
+
+It is preferable to write a function for adding the digits of a number, finding the prime factors of a number, and for calculating D(x).
+
+Note that if you perform many operations, you may face a time limit.</h4>
 
 <h6>Python Solution</h6>
 
 ```python
+def digits_sum(x):
+    sum = 0
+    while x > 0:
+        sum += (x % 10)
+        x //= 10
+    return sum
+
+def is_prime(a):
+    if a == 1:
+        return False
+    for i in range(2, a):
+        if a % i == 0:
+            return False
+    return True
+
+def prim_div_sum(x):
+    sum = 0
+    for i in range(2, x + 1):
+        if x % i == 0 and is_prime(i):
+            sum += i
+    return sum
+
+def d(x):
+    return x + digits_sum(x) + prim_div_sum(x)
+
+t = int(input())
+for q in range(t):
+    n = int(input())
+    found = False
+    for x in range(n):
+        if d(x) == n:
+            print("Yes")
+            found = True
+            break
+    if found == False:
+        print("No")
+        
 
 ```
 
 
-# Problem - 022
+# اول بینی | Find prime
 
-<h4>Question</h4>
-<h6> </h6>
+<h4>Write a program that takes the two ends of an interval from the user, such as (a, b) and prints the prime numbers inside that interval. 
+  Output numbers must be separated by commas (,). 
+  
+  The start and end of the interval should not be considered.</h4>
 
 <h6>Python Solution</h6>
 
 ```python
+a, b = int(input()), int(input())
 
+result = ""
+for i in range(a + 1, b):
+    count = 0
+    for j in range(1, i + 1):
+        if i % j == 0:
+            count += 1
+
+    if count == 2 and not result:
+        result = str(i)
+    elif count == 2:
+        result += "," + str(i)
+
+print(result)
 ```
 
 
 # Problem - 023
 
-<h4>Question</h4>
-<h6> </h6>
+<h4>Mohammad Rezas, who passed his entrance exam, wants to participate in all Quora programming competitions; But now it is involved in taking vision test from students applying for driver's license.
+
+Mohammad Rezas places a word of English letters at a distance of two meters from the student, and the student must write exactly on it. Then Mohammad Rezas should tell him the number of wrongly written letters as the amount of blindness of this person.
+
+Mohammad Rezas is in a hurry to give the Quora competition and wants to do the vision test on a computer, so he requested that you write a program that outputs the number of mistakes by the student by taking the input of the word placed in front of the student and the word written by the student.</h4>
 
 <h6>Python Solution</h6>
 
 ```python
+letters = int(input())
+original = input()
+student = input()
 
+number = 0
+
+for i in range(letters):
+    if original[i] != student[i]:
+        number += 1
+
+print(number)
 ```
 
 
