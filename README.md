@@ -1,8 +1,8 @@
-#  حل مسائل و تمرینات دوره برنامه نویسی پایتون مقدماتی کوئرا کالج
-# Solving problems of Quera College's fundamental Python programming course
+#  حل مسائل و تمرینات دوره برنامه نویسی پایتون کوئرا کالج
+# Solving problems of Quera College's Python programming course
 
 
-- In this repository, I tried to solve problems of **Quera College's fundamental Python programming course**.
+- In this repository, I tried to solve problems of **Quera College's Python programming course**.
 
 + I try to do this in **my own way**, but you can solve the problems according to **your own point of view**. <br>
 
