@@ -2,9 +2,7 @@
 # Solving problems of Quera College's Python programming course
 
 
-- In this repository, I tried to solve problems of **Quera College's Python programming course**.
-
-+ I try to do this in **my own way**, but you can solve the problems according to **your own point of view**. <br>
+- In this repository, I tried to solve problems of **Quera College's Python programming course** in **my own way**, but you can solve the problems according to **your own point of view**. <br>
 
 
 <br> <br>
