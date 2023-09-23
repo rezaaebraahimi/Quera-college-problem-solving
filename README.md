@@ -57,7 +57,7 @@
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%A7%D9%88%D9%84-%D8%A8%DB%8C%D9%86%DB%8C--find-prime">اول بینی_Find prime</a></td>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/FindPrime.py">File.py</a></td>
   </tr>
-   <tr>
+  <tr>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%AA%D8%B3%D8%AA-%D8%A8%DB%8C%D9%86%D8%A7%DB%8C%DB%8C--vision-test">تست بینایی_Vision test</a></td>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VisionTest.py">File.py</a></td>
   </tr>
@@ -65,8 +65,18 @@
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/tree/main#%D8%AF%DB%8C%D8%AA%D8%A7%D8%A8%DB%8C%D8%B3-%D8%AE%DB%8C%D9%84%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF--very-large-database">دیتابیس خیلی بزرگ_Very large database</a></td>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VeryLargeDatabase.py">File.py</a></td>
   </tr>
-    <tr>
-    <td><a href="">مرتبسازی خفن_Sorting out</a></td>
+  <tr>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D9%85%D8%B1%D8%AA%D8%A8%D8%B3%D8%A7%D8%B2%DB%8C-%D8%AE%D9%81%D9%86_sorting-out">مرتبسازی خفن_Sorting out</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/SortingOut.py">File.py</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="">مثلث خیام پاسکال_Pascal's triangle</a></td>
+    <td><a href="">File.py</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="">تغییرات آرایوی_Arrays change</a></td>
     <td><a href="">File.py</a></td>
   </tr>
 </table>
@@ -320,6 +330,35 @@ A student is better than b if the correct part of a's grade point average is gre
 The correct component of a positive number such as x, which we denote by ⌊x⌋, is the number obtained by removing the digits after the decimal point of x.
 
 You are required to provide a list of student names in sorted order. In this list, the first student is the best. </h4>
+
+<div align="center">
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/SortingOut.py">---Show Python Solution---</a></h3>
+</div>
+<br><br>
+
+# مثلث خیام پاسکال_Pascal's triangle
+
+<h4> Write a program that takes the number n from the input and displays the first n rows of Pascal's triangle.
+
+Khayyam Pascal's triangle is such that there is only one number 1 in the first row. Then, in line i, there are i numbers whose first and last numbers are 1, and each of the other numbers is the sum of the two upper numbers. The picture below is the first six lines of Khayyam Pascal's triangle.
+
+<div align="center"><img src="https://s8.uupload.ir/files/pascaltriangleanimated2_6pe.gif" alt="pascals triangle"></div>
+</h4>
+
+<div align="center">
+<h3><a href="">---Show Python Solution---</a></h3>
+</div>
+<br><br>
+
+# تغییرات آرایوی_Arrays change
+
+<h4>
+In this question, we want to create a simple database using an array. Suppose all our information is in the form of numbers that are placed in an array.
+
+ We can add a number to the array, or remove a number from it. More precisely, assume that the numbers a[1], a[2], ..., a[n] are in the array, at each step we either add a number such as x in the i position or the number in the i position We delete By adding a new number in position i,
+ 
+  all the numbers that were previously in positions i to n move forward by one unit.
+</h4>
 
 <div align="center">
 <h3><a href="">---Show Python Solution---</a></h3>
