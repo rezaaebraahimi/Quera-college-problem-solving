@@ -71,13 +71,13 @@
   </tr>
 
   <tr>
-    <td><a href="">مثلث خیام پاسکال_Pascal's triangle</a></td>
-    <td><a href="">File.py</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/tree/main#%D9%85%D8%AB%D9%84%D8%AB-%D8%AE%DB%8C%D8%A7%D9%85-%D9%BE%D8%A7%D8%B3%DA%A9%D8%A7%D9%84_pascals-triangle">مثلث خیام پاسکال_Pascal's triangle</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/PascalsTriangle.py">File.py</a></td>
   </tr>
 
   <tr>
-    <td><a href="">تغییرات آرایوی_Arrays change</a></td>
-    <td><a href="">File.py</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1%D8%A7%D8%AA-%D8%A2%D8%B1%D8%A7%DB%8C%D9%88%DB%8C_arrays-change">تغییرات آرایوی_Arrays change</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/ChangeableArrays.py">File.py</a></td>
   </tr>
 </table>
 </div>
@@ -346,7 +346,7 @@ Khayyam Pascal's triangle is such that there is only one number 1 in the first r
 </h4>
 
 <div align="center">
-<h3><a href="">---Show Python Solution---</a></h3>
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/PascalsTriangle.py">---Show Python Solution---</a></h3>
 </div>
 <br><br>
 
@@ -361,6 +361,6 @@ In this question, we want to create a simple database using an array. Suppose al
 </h4>
 
 <div align="center">
-<h3><a href="">---Show Python Solution---</a></h3>
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/ChangeableArrays.py">---Show Python Solution---</a></h3>
 </div>
 <br><br>
