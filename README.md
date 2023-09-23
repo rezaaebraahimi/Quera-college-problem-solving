@@ -280,9 +280,22 @@ Mohammad Rezas is in a hurry to give the Quora competition and wants to do the v
 </div>
 <br><br>
 
-# Problem - 024
+# دیتابیس خیلی بزرگ | Very large database
 
-<h4> </h4>
+<h4> The database manager has his own strictures, and to make sure Behrouz is right for the job, he made the challenge even more complicated. This time, he has the same request as before, but he has made the list of numbers and the number of queries so large that if he wants to solve the question by linear search, it will take many years! And the bad news is that Behrouz's manager is very impatient. So this time help him to solve the question by binary search method.
+
+Input
+In the first input line, the numbers n and q are given.
+
+In the next line, the a_i's are arranged.
+
+then q line as ? x is given, which means whether the number x is in the sequence or not.
+
+1 <= n,  q <= 100000, 1 <= a[i], x <= 10^9
+ 
+
+output
+In q output line, 1 is output in each line if the corresponding number is in the list and 0 otherwise. </h4>
 
 <div align="center">
 <h3><a href="">---Show Python Solution---</a></h3>
