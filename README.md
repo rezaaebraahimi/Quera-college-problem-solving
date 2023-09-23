@@ -61,6 +61,10 @@
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%AA%D8%B3%D8%AA-%D8%A8%DB%8C%D9%86%D8%A7%DB%8C%DB%8C--vision-test">تست بینایی | Vision test</a></td>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VisionTest.py">File.py</a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/tree/main#%D8%AF%DB%8C%D8%AA%D8%A7%D8%A8%DB%8C%D8%B3-%D8%AE%DB%8C%D9%84%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF--very-large-database">دیتابیس خیلی بزرگ | Very large database</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VeryLargeDatabase.py">File.py</a></td>
+  </tr>
 </table>
 </div>
 
@@ -298,7 +302,7 @@ output
 In q output line, 1 is output in each line if the corresponding number is in the list and 0 otherwise. </h4>
 
 <div align="center">
-<h3><a href="">---Show Python Solution---</a></h3>
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VeryLargeDatabase.py">---Show Python Solution---</a></h3>
 </div>
 <br><br>
 
