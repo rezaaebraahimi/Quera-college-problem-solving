@@ -14,56 +14,60 @@
     <th>Solution</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%B1%D8%B4%D8%AA%D9%87-%D8%A8%D9%84%D9%86%D8%AF--long-string">رشته بلند | Long string</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%B1%D8%B4%D8%AA%D9%87-%D8%A8%D9%84%D9%86%D8%AF--long-string">رشته بلند_Long string</a></td>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/LongString.py">File.py</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%B1%D8%B4%D8%AA%D9%87%D9%87%D8%A7%DB%8C-%D9%88%D8%A7%D8%B1%D9%88%D8%A7%DA%98%D9%87--vocabulary-strings">رشته‌های وارواژه | Vocabulary strings</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%B1%D8%B4%D8%AA%D9%87%D9%87%D8%A7%DB%8C-%D9%88%D8%A7%D8%B1%D9%88%D8%A7%DA%98%D9%87--vocabulary-strings">رشته‌های وارواژه_Vocabulary strings</a></td>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VocabString.py">File.py</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D9%85%D8%B1%D8%A8%D8%B9-%D8%AC%D8%A7%D8%AF%D9%88%DB%8C%DB%8C--magic-square">مربع جادویی | Magic Square</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D9%85%D8%B1%D8%A8%D8%B9-%D8%AC%D8%A7%D8%AF%D9%88%DB%8C%DB%8C--magic-square">مربع جادویی_Magic Square</a></td>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/MagicSquare.py">File.py</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D9%85%D8%B2%D8%B1%D8%B9%D9%87-%D8%B3%D9%85%D8%A7%D9%82--sumac-farm">مزرعه سماق | Sumac Farm</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D9%85%D8%B2%D8%B1%D8%B9%D9%87-%D8%B3%D9%85%D8%A7%D9%82--sumac-farm">مزرعه سماق_Sumac Farm</a></td>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/SumacFarm.py">File.py</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B1%D9%86%D8%AF--catchy-number">شماره رند | Catchy Number</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B1%D9%86%D8%AF--catchy-number">شماره رند_Catchy Number</a></td>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/CatchyNumber.py">File.py</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%DA%A9%D8%B4%D9%81-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D9%87--discover-the-equation">کشف معادله | Discover the equation</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%DA%A9%D8%B4%D9%81-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D9%87--discover-the-equation">کشف معادله_Discover the equation</a></td>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/DiscoverTheEquation.py">File.py</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%A2%D9%84%D9%81%D8%A7-%D9%82%D9%86%D8%B7%D9%88%D8%B1%D8%B3--alpha-centauri">آلفا قنطورس | Alpha Centauri</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%A2%D9%84%D9%81%D8%A7-%D9%82%D9%86%D8%B7%D9%88%D8%B1%D8%B3--alpha-centauri">آلفا قنطورس_Alpha Centauri</a></td>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/AlphaCentauri.py">File.py</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%A7%D8%AA%D9%84-%D9%85%D8%AA%D9%84-%D8%AA%D9%88%D8%AA%D9%88%D9%84%D9%87--atal-matal-tutule">اتل متل توتوله | Atal Matal Tutule</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%A7%D8%AA%D9%84-%D9%85%D8%AA%D9%84-%D8%AA%D9%88%D8%AA%D9%88%D9%84%D9%87--atal-matal-tutule">اتل متل توتوله_Atal Matal Tutule</a></td>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/AtalMatalTutule.py">File.py</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%A8%D8%A7%D8%BA%DA%86%D9%87-%D8%B1%D8%B2--rose-garden">باغچه رز | Rose garden</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%A8%D8%A7%D8%BA%DA%86%D9%87-%D8%B1%D8%B2--rose-garden">باغچه رز_Rose garden</a></td>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/RoseGarden.py">File.py</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%AF%D8%B1-%D8%AC%D8%B3%D8%AA%D8%AC%D9%88%DB%8C-%D9%BE%D8%AF%D8%B1--in-search-of-father">در جستجوی پدر | In search of father</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%AF%D8%B1-%D8%AC%D8%B3%D8%AA%D8%AC%D9%88%DB%8C-%D9%BE%D8%AF%D8%B1--in-search-of-father">در جستجوی پدر_In search of father</a></td>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/InSearchOfFather.py">File.py</a></td>
   </tr>
    <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%A7%D9%88%D9%84-%D8%A8%DB%8C%D9%86%DB%8C--find-prime">اول بینی | Find prime</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%A7%D9%88%D9%84-%D8%A8%DB%8C%D9%86%DB%8C--find-prime">اول بینی_Find prime</a></td>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/FindPrime.py">File.py</a></td>
   </tr>
    <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%AA%D8%B3%D8%AA-%D8%A8%DB%8C%D9%86%D8%A7%DB%8C%DB%8C--vision-test">تست بینایی | Vision test</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%AA%D8%B3%D8%AA-%D8%A8%DB%8C%D9%86%D8%A7%DB%8C%DB%8C--vision-test">تست بینایی_Vision test</a></td>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VisionTest.py">File.py</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/tree/main#%D8%AF%DB%8C%D8%AA%D8%A7%D8%A8%DB%8C%D8%B3-%D8%AE%DB%8C%D9%84%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF--very-large-database">دیتابیس خیلی بزرگ | Very large database</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/tree/main#%D8%AF%DB%8C%D8%AA%D8%A7%D8%A8%DB%8C%D8%B3-%D8%AE%DB%8C%D9%84%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF--very-large-database">دیتابیس خیلی بزرگ_Very large database</a></td>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VeryLargeDatabase.py">File.py</a></td>
+  </tr>
+    <tr>
+    <td><a href="">مرتبسازی خفن_Sorting out</a></td>
+    <td><a href="">File.py</a></td>
   </tr>
 </table>
 </div>
@@ -71,7 +75,7 @@
 <br> <br>
 
 
-# رشته بلند | Long string
+# رشته بلند_Long string
 
 <h4>Ali, who was able to design a system to simulate the football league the other day, has become somewhat proud and boasts of his abilities. Now he wants to implement another system for validating strings, but because of the fatigue of the previous project, he doesn't want his system to be too complicated!
 
@@ -90,7 +94,7 @@ Now, there are operations that are applied on this string and with it the degree
 
 
 
-# رشته‌های وارواژه | Vocabulary strings
+# رشته‌های وارواژه_Vocabulary strings
 
 <h4>In complete disbelief, Muhammad also said this famous sentence and proved to everyone that the strange method they took to close the distance between their minds worked! Now the distance between Muhammad and Irfan's mind tends to zero and they are very happy! Before finally starting to develop the project, they decided to code together a little to warm up, but unfortunately, they still don't have enough command of Python coding.
 
@@ -106,7 +110,7 @@ The S string is a string that contains English lowercase letters and a number of
 </div>
 <br><br>
 
-# مربع جادویی | Magic Square
+# مربع جادویی_Magic Square
 
 <h4>A magic square is an n×n matrix in which the numbers m to m + n^2 - 1 are located and the sum of the numbers of each row, each column and each diagonal is equal. The figure below shows a 3x3 magic square where the numbers 1 to 9 are placed and the sum of the numbers of each row, column and diameter is equal to 15.
 
@@ -133,7 +137,7 @@ In the figure below, m is equal to or one and n is equal to three. The steps of 
 <br><br>
 
 
-# مزرعه سماق | Sumac Farm
+# مزرعه سماق_Sumac Farm
 
 <h4>Arya wants to buy a terraced farm and cultivate sumac in it. He goes to Bajnaq to offer him a piece of land. Asghar shows Aria a picture of a land. Now Aria wants to see if he can turn this land into a sumac farm or not?
 
@@ -154,7 +158,7 @@ Note that i can be equal to n.</h4>
 <br><br>
 
 
-# شماره رند | Catchy Number
+# شماره رند_Catchy Number
 
 <h4>Uncle Scrooge has decided to order a catchy phone number at the end of the year. Uncle Scrooge's number must be 8 digits long and not start with a zero (for example, the phone number 01234567 is not valid).
   
@@ -174,7 +178,7 @@ Uncle Scrooge is picking catchy numbers and asks you to help him figure out catc
 <br><br>
 
 
-# کشف معادله | Discover the equation
+# کشف معادله_Discover the equation
 
 <h4>Write a program that takes n and the coordinates of n points (x and y respectively) and declares which of the graphs these points belong to and prints the number of the graph and if it does not belong to any of them, prints the statement No ones .
 
@@ -188,7 +192,7 @@ Uncle Scrooge is picking catchy numbers and asks you to help him figure out catc
 <br><br>
 
 
-# آلفا قنطورس | Alpha Centauri
+# آلفا قنطورس_Alpha Centauri
 
 <h4>In one of the planets of the Alpha Centauri system (Alpha Centauri - the closest star system to the solar system), strange creatures live and each of them has a different number of fingers.
   Some of them, like us, have ten fingers on their two hands, and some have 16 fingers, some have 2 fingers, some have 6 fingers, etc., for this reason, there are different schools for different beings on this planet, and in each school, numbers are Children are taught on a different basis.
@@ -203,7 +207,7 @@ Help him solve this programming problem.</h4>
 <br><br>
 
 
-# اتل متل توتوله | Atal Matal Tutule
+# اتل متل توتوله_Atal Matal Tutule
 
 <h4>After Mohammad and Irfan realized that their minds were far apart in a strange way, they tried to fix the distance between their minds with an even stranger way!
 
@@ -223,7 +227,7 @@ Note that in the case that at the end there is only one person left on both legs
 <br><br>
 
 
-# باغچه رز | Rose garden
+# باغچه رز_Rose garden
 
 <h4>Wald has a row of roses, each of which wilts and blooms again at the end of each month, and each time you go again it can be white or black.
   Wold, who knows his flowers well, knows that if after the end of the period (meaning the period of a number of months in a row), the number of times the white flower has given is even, that rose is unlucky and should be picked.
@@ -237,7 +241,7 @@ Now, you will be given the number of months of the period and the color of each 
 </div>
 <br><br>
 
-# در جستجوی پدر | In search of father
+# در جستجوی پدر_In search of father
 
 <h4>We define the function D(x) as: x + the sum of the digits of x + the sum of the prime factors of x.
   We call x the parent of D(x).
@@ -259,7 +263,7 @@ Note that if you perform many operations, you may face a time limit.</h4>
 <br><br>
 
 
-# اول بینی | Find prime
+# اول بینی_Find prime
 
 <h4>Write a program that takes the two ends of an interval from the user, such as (a, b) and prints the prime numbers inside that interval. 
   Output numbers must be separated by commas (,). 
@@ -271,7 +275,7 @@ Note that if you perform many operations, you may face a time limit.</h4>
 </div>
 <br><br>
 
-# تست بینایی | Vision test
+# تست بینایی_Vision test
 
 <h4>Mohammad Rezas, who passed his entrance exam, wants to participate in all Quora programming competitions; But now it is involved in taking vision test from students applying for driver's license.
 
@@ -284,7 +288,7 @@ Mohammad Rezas is in a hurry to give the Quora competition and wants to do the v
 </div>
 <br><br>
 
-# دیتابیس خیلی بزرگ | Very large database
+# دیتابیس خیلی بزرگ_Very large database
 
 <h4> The database manager has his own strictures, and to make sure Behrouz is right for the job, he made the challenge even more complicated. This time, he has the same request as before, but he has made the list of numbers and the number of queries so large that if he wants to solve the question by linear search, it will take many years! And the bad news is that Behrouz's manager is very impatient. So this time help him to solve the question by binary search method.
 
@@ -307,3 +311,17 @@ In q output line, 1 is output in each line if the corresponding number is in the
 <br><br>
 
 
+# مرتبسازی خفن_Sorting out
+
+<h4>Suppose you are a sorter and you want to sort the students of a school.
+
+A student is better than b if the correct part of a's grade point average is greater than the correct part of b's grade point average. And if this value is equal in both, then a student is better if the number of sports he knows is more.
+
+The correct component of a positive number such as x, which we denote by ⌊x⌋, is the number obtained by removing the digits after the decimal point of x.
+
+You are required to provide a list of student names in sorted order. In this list, the first student is the best. </h4>
+
+<div align="center">
+<h3><a href="">---Show Python Solution---</a></h3>
+</div>
+<br><br>
