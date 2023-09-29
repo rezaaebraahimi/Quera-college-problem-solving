@@ -11,73 +11,73 @@
 <table>
   <tr>
     <th>Problem Description | شرح مسئله</th>
-    <th>Solution</th>
+    <th>File</th>
   </tr>
   <tr>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%B1%D8%B4%D8%AA%D9%87-%D8%A8%D9%84%D9%86%D8%AF--long-string">رشته بلند_Long string</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/LongString.py">File.py</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/LongString.py">Solution.py</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%B1%D8%B4%D8%AA%D9%87%D9%87%D8%A7%DB%8C-%D9%88%D8%A7%D8%B1%D9%88%D8%A7%DA%98%D9%87--vocabulary-strings">رشته‌های وارواژه_Vocabulary strings</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VocabString.py">File.py</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VocabString.py">Solution.py</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D9%85%D8%B1%D8%A8%D8%B9-%D8%AC%D8%A7%D8%AF%D9%88%DB%8C%DB%8C--magic-square">مربع جادویی_Magic Square</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/MagicSquare.py">File.py</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/MagicSquare.py">Solution.py</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D9%85%D8%B2%D8%B1%D8%B9%D9%87-%D8%B3%D9%85%D8%A7%D9%82--sumac-farm">مزرعه سماق_Sumac Farm</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/SumacFarm.py">File.py</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/SumacFarm.py">Solution.py</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B1%D9%86%D8%AF--catchy-number">شماره رند_Catchy Number</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/CatchyNumber.py">File.py</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/CatchyNumber.py">Solution.py</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%DA%A9%D8%B4%D9%81-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D9%87--discover-the-equation">کشف معادله_Discover the equation</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/DiscoverTheEquation.py">File.py</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/DiscoverTheEquation.py">Solution.py</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%A2%D9%84%D9%81%D8%A7-%D9%82%D9%86%D8%B7%D9%88%D8%B1%D8%B3--alpha-centauri">آلفا قنطورس_Alpha Centauri</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/AlphaCentauri.py">File.py</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/AlphaCentauri.py">Solution.py</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%A7%D8%AA%D9%84-%D9%85%D8%AA%D9%84-%D8%AA%D9%88%D8%AA%D9%88%D9%84%D9%87--atal-matal-tutule">اتل متل توتوله_Atal Matal Tutule</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/AtalMatalTutule.py">File.py</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/AtalMatalTutule.py">Solution.py</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%A8%D8%A7%D8%BA%DA%86%D9%87-%D8%B1%D8%B2--rose-garden">باغچه رز_Rose garden</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/RoseGarden.py">File.py</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/RoseGarden.py">Solution.py</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%AF%D8%B1-%D8%AC%D8%B3%D8%AA%D8%AC%D9%88%DB%8C-%D9%BE%D8%AF%D8%B1--in-search-of-father">در جستجوی پدر_In search of father</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/InSearchOfFather.py">File.py</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/InSearchOfFather.py">Solution.py</a></td>
   </tr>
    <tr>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%A7%D9%88%D9%84-%D8%A8%DB%8C%D9%86%DB%8C--find-prime">اول بینی_Find prime</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/FindPrime.py">File.py</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/FindPrime.py">Solution.py</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%AA%D8%B3%D8%AA-%D8%A8%DB%8C%D9%86%D8%A7%DB%8C%DB%8C--vision-test">تست بینایی_Vision test</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VisionTest.py">File.py</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VisionTest.py">Solution.py</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/tree/main#%D8%AF%DB%8C%D8%AA%D8%A7%D8%A8%DB%8C%D8%B3-%D8%AE%DB%8C%D9%84%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF--very-large-database">دیتابیس خیلی بزرگ_Very large database</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VeryLargeDatabase.py">File.py</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VeryLargeDatabase.py">Solution.py</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D9%85%D8%B1%D8%AA%D8%A8%D8%B3%D8%A7%D8%B2%DB%8C-%D8%AE%D9%81%D9%86_sorting-out">مرتبسازی خفن_Sorting out</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/SortingOut.py">File.py</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/SortingOut.py">Solution.py</a></td>
   </tr>
 
   <tr>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/tree/main#%D9%85%D8%AB%D9%84%D8%AB-%D8%AE%DB%8C%D8%A7%D9%85-%D9%BE%D8%A7%D8%B3%DA%A9%D8%A7%D9%84_pascals-triangle">مثلث خیام پاسکال_Pascal's triangle</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/PascalsTriangle.py">File.py</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/PascalsTriangle.py">Solution.py</a></td>
   </tr>
 
   <tr>
     <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1%D8%A7%D8%AA-%D8%A2%D8%B1%D8%A7%DB%8C%D9%88%DB%8C_arrays-change">تغییرات آرایوی_Arrays change</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/ChangeableArrays.py">File.py</a></td>
+    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/ChangeableArrays.py">Solution.py</a></td>
   </tr>
 </table>
 </div>
@@ -97,7 +97,7 @@ Also, to get started, a string consisting of English uppercase and lowercase let
 Now, there are operations that are applied on this string and with it the degree of validity of the string can be recognized.</h4>
 
 <div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/LongString.py">---Show Python Solution---</a></h3>
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/LongString.py"> ---> GoTo Solution.py <--- </a></h3>
 </div>
 
 <br> <br>
@@ -116,7 +116,7 @@ A string S is a synonym for a string T if it is possible to get the string T by 
 The S string is a string that contains English lowercase letters and a number of characters ? Is. Also, the P string is a string that only contains English lowercase letters. A substring of S is called a good substring if it is possible to obtain a substring of P by placing arbitrary letters instead of ?.</h4>
 
 <div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VocabString.py">---Show Python Solution---</a></h3>
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VocabString.py"> ---> GoTo Solution.py <--- </a></h3>
 </div>
 <br><br>
 
@@ -142,7 +142,7 @@ In the figure below, m is equal to or one and n is equal to three. The steps of 
 <div align="center"><img src="https://bayanbox.ir/view/5703298927176223485/11.png" alt="magic square algorithm"> </div>
 
 <div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/MagicSquare.py">---Show Python Solution---</a></h3>
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/MagicSquare.py"> ---> GoTo Solution.py <--- </a></h3>
 </div>
 <br><br>
 
@@ -163,7 +163,7 @@ Note that i can be equal to n.</h4>
 
 
 <div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/SumacFarm.py">---Show Python Solution---</a></h3>
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/SumacFarm.py"> ---> GoTo Solution.py <--- </a></h3>
 </div>
 <br><br>
 
@@ -183,7 +183,7 @@ Uncle Scrooge is picking catchy numbers and asks you to help him figure out catc
 <h6> </h6>
 
 <div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/CatchyNumber.py">---Show Python Solution---</a></h3>
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/CatchyNumber.py"> ---> GoTo Solution.py <--- </a></h3>
 </div>
 <br><br>
 
@@ -197,7 +197,7 @@ Uncle Scrooge is picking catchy numbers and asks you to help him figure out catc
   Define a separate function for each of the following equations.</h4>
 
 <div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/DiscoverTheEquation.py">---Show Python Solution---</a></h3>
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/DiscoverTheEquation.py"> ---> GoTo Solution.py <--- </a></h3>
 </div>
 <br><br>
 
@@ -212,7 +212,7 @@ Kianush, who is one of the inhabitants of this planet and has 10 fingers, is ver
 Help him solve this programming problem.</h4>
 
 <div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/AlphaCentauri.py">---Show Python Solution---</a></h3>
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/AlphaCentauri.py"> ---> GoTo Solution.py <--- </a></h3>
 </div>
 <br><br>
 
@@ -232,7 +232,7 @@ Note that in the case that at the end there is only one person left on both legs
 
 
 <div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/AtalMatalTutule.py">---Show Python Solution---</a></h3>
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/AtalMatalTutule.py"> ---> GoTo Solution.py <--- </a></h3>
 </div>
 <br><br>
 
@@ -247,7 +247,7 @@ In this case, the first flower was white twice, which is an even number, so the 
 Now, you will be given the number of months of the period and the color of each flower in each month; You have to say at the end of the period that each flower is blessed or not.
 </h4>
 <div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/RoseGarden.py">---Show Python Solution---</a></h3>
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/RoseGarden.py"> ---> GoTo Solution.py <--- </a></h3>
 </div>
 <br><br>
 
@@ -268,7 +268,7 @@ Note that if you perform many operations, you may face a time limit.</h4>
 
 
 <div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/InSearchOfFather.py">---Show Python Solution---</a></h3>
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/InSearchOfFather.py"> ---> GoTo Solution.py <--- </a></h3>
 </div>
 <br><br>
 
@@ -281,7 +281,7 @@ Note that if you perform many operations, you may face a time limit.</h4>
   The start and end of the interval should not be considered.</h4>
 
 <div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/FindPrime.py">---Show Python Solution---</a></h3>
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/FindPrime.py"> ---> GoTo Solution.py <--- </a></h3>
 </div>
 <br><br>
 
@@ -294,7 +294,7 @@ Mohammad Rezas places a word of English letters at a distance of two meters from
 Mohammad Rezas is in a hurry to give the Quora competition and wants to do the vision test on a computer, so he requested that you write a program that outputs the number of mistakes by the student by taking the input of the word placed in front of the student and the word written by the student.</h4>
 
 <div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VisionTest.py">---Show Python Solution---</a></h3>
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VisionTest.py"> ---> GoTo Solution.py <--- </a></h3>
 </div>
 <br><br>
 
@@ -316,7 +316,7 @@ output
 In q output line, 1 is output in each line if the corresponding number is in the list and 0 otherwise. </h4>
 
 <div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VeryLargeDatabase.py">---Show Python Solution---</a></h3>
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VeryLargeDatabase.py"> ---> GoTo Solution.py <--- </a></h3>
 </div>
 <br><br>
 
@@ -332,7 +332,7 @@ The correct component of a positive number such as x, which we denote by ⌊x⌋
 You are required to provide a list of student names in sorted order. In this list, the first student is the best. </h4>
 
 <div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/SortingOut.py">---Show Python Solution---</a></h3>
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/SortingOut.py"> ---> GoTo Solution.py <--- </a></h3>
 </div>
 <br><br>
 
@@ -346,7 +346,7 @@ Khayyam Pascal's triangle is such that there is only one number 1 in the first r
 </h4>
 
 <div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/PascalsTriangle.py">---Show Python Solution---</a></h3>
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/PascalsTriangle.py"> ---> GoTo Solution.py <--- </a></h3>
 </div>
 <br><br>
 
@@ -361,6 +361,6 @@ In this question, we want to create a simple database using an array. Suppose al
 </h4>
 
 <div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/ChangeableArrays.py">---Show Python Solution---</a></h3>
+<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/ChangeableArrays.py"> ---> GoTo Solution.py <--- </a></h3>
 </div>
 <br><br>
