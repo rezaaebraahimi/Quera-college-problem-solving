@@ -5,84 +5,11 @@
 - In this repository, I tried to solve problems of **Quera College's Python programming course** in **my own way**, but you can solve the problems according to **your own point of view**. <br>
 
 
-<br> <br>
+<br>
 
-<div align="center">
-<table>
-  <tr>
-    <th>Problem Description | شرح مسئله</th>
-    <th>File</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%B1%D8%B4%D8%AA%D9%87-%D8%A8%D9%84%D9%86%D8%AF--long-string">رشته بلند_Long string</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/LongString.py">Solution.py</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%B1%D8%B4%D8%AA%D9%87%D9%87%D8%A7%DB%8C-%D9%88%D8%A7%D8%B1%D9%88%D8%A7%DA%98%D9%87--vocabulary-strings">رشته‌های وارواژه_Vocabulary strings</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VocabString.py">Solution.py</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D9%85%D8%B1%D8%A8%D8%B9-%D8%AC%D8%A7%D8%AF%D9%88%DB%8C%DB%8C--magic-square">مربع جادویی_Magic Square</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/MagicSquare.py">Solution.py</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D9%85%D8%B2%D8%B1%D8%B9%D9%87-%D8%B3%D9%85%D8%A7%D9%82--sumac-farm">مزرعه سماق_Sumac Farm</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/SumacFarm.py">Solution.py</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B1%D9%86%D8%AF--catchy-number">شماره رند_Catchy Number</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/CatchyNumber.py">Solution.py</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%DA%A9%D8%B4%D9%81-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D9%87--discover-the-equation">کشف معادله_Discover the equation</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/DiscoverTheEquation.py">Solution.py</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%A2%D9%84%D9%81%D8%A7-%D9%82%D9%86%D8%B7%D9%88%D8%B1%D8%B3--alpha-centauri">آلفا قنطورس_Alpha Centauri</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/AlphaCentauri.py">Solution.py</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%A7%D8%AA%D9%84-%D9%85%D8%AA%D9%84-%D8%AA%D9%88%D8%AA%D9%88%D9%84%D9%87--atal-matal-tutule">اتل متل توتوله_Atal Matal Tutule</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/AtalMatalTutule.py">Solution.py</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%A8%D8%A7%D8%BA%DA%86%D9%87-%D8%B1%D8%B2--rose-garden">باغچه رز_Rose garden</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/RoseGarden.py">Solution.py</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%AF%D8%B1-%D8%AC%D8%B3%D8%AA%D8%AC%D9%88%DB%8C-%D9%BE%D8%AF%D8%B1--in-search-of-father">در جستجوی پدر_In search of father</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/InSearchOfFather.py">Solution.py</a></td>
-  </tr>
-   <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%A7%D9%88%D9%84-%D8%A8%DB%8C%D9%86%DB%8C--find-prime">اول بینی_Find prime</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/FindPrime.py">Solution.py</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%AA%D8%B3%D8%AA-%D8%A8%DB%8C%D9%86%D8%A7%DB%8C%DB%8C--vision-test">تست بینایی_Vision test</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VisionTest.py">Solution.py</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/tree/main#%D8%AF%DB%8C%D8%AA%D8%A7%D8%A8%DB%8C%D8%B3-%D8%AE%DB%8C%D9%84%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF--very-large-database">دیتابیس خیلی بزرگ_Very large database</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VeryLargeDatabase.py">Solution.py</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D9%85%D8%B1%D8%AA%D8%A8%D8%B3%D8%A7%D8%B2%DB%8C-%D8%AE%D9%81%D9%86_sorting-out">مرتبسازی خفن_Sorting out</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/SortingOut.py">Solution.py</a></td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/tree/main#%D9%85%D8%AB%D9%84%D8%AB-%D8%AE%DB%8C%D8%A7%D9%85-%D9%BE%D8%A7%D8%B3%DA%A9%D8%A7%D9%84_pascals-triangle">مثلث خیام پاسکال_Pascal's triangle</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/PascalsTriangle.py">Solution.py</a></td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving#%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1%D8%A7%D8%AA-%D8%A2%D8%B1%D8%A7%DB%8C%D9%88%DB%8C_arrays-change">تغییرات آرایوی_Arrays change</a></td>
-    <td><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/ChangeableArrays.py">Solution.py</a></td>
-  </tr>
-</table>
-</div>
-
-<br> <br>
+<h1>Link to my valid certification at Quera College:
+<a href="https://quera.org/certificate/wnC1vy5y/"> View Certification  </a>
+</h1><br>
 
 
 # رشته بلند_Long string
@@ -96,9 +23,84 @@ Also, to get started, a string consisting of English uppercase and lowercase let
 
 Now, there are operations that are applied on this string and with it the degree of validity of the string can be recognized.</h4>
 
-<div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/LongString.py"> ---> GoTo Solution.py <--- </a></h3>
-</div>
+
+```python
+def copy(key, count):
+    global suspiciousString
+    text = key * count
+    suspiciousString = text + suspiciousString[len(text):]
+
+
+def compare(key):
+    global suspiciousString
+    global goodLevel
+    if suspiciousString == key:
+        goodLevel += 1
+
+
+def substr(key, count):
+    global suspiciousString
+    global goodLevel
+    if suspiciousString.count(key) == count:
+        goodLevel += 1
+
+
+def attach(key, count, str):
+    global suspiciousString
+    global goodLevel
+    key += str
+    if suspiciousString.count(key) == count:
+        goodLevel += 1
+
+
+def length(count):
+    global suspiciousString
+    global goodLevel
+    if len(suspiciousString) == count:
+        goodLevel += 1
+
+
+def loop(inputer):
+    global countCommand
+
+    if inputer == "Is it right or not?":
+        return
+
+    inputer = inputer.split(" ")
+
+    countCommand += 1
+
+    if "copy" == inputer[0]:
+        copy(key=inputer[1], count=int(inputer[2]))
+
+    elif "compare" == inputer[0]:
+        compare(key=inputer[1])
+
+    elif "substr" == inputer[0]:
+        substr(key=inputer[1], count=int(inputer[2]))
+
+    elif "attach" == inputer[0]:
+        attach(key=inputer[1], count=int(inputer[2]), str=inputer[3])
+
+    elif "length" == inputer[0]:
+        length(count=int(inputer[1]))
+
+    loop(input())
+
+
+goodLevel = 0
+suspiciousString = input()
+countCommand = 0
+
+loop(input())
+
+if goodLevel >= (countCommand // 2):
+    print("Great!")
+
+else:
+    print("Oh,No!")
+```
+
 
 <br> <br>
 
@@ -115,10 +117,38 @@ A string S is a synonym for a string T if it is possible to get the string T by 
 
 The S string is a string that contains English lowercase letters and a number of characters ? Is. Also, the P string is a string that only contains English lowercase letters. A substring of S is called a good substring if it is possible to obtain a substring of P by placing arbitrary letters instead of ?.</h4>
 
-<div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VocabString.py"> ---> GoTo Solution.py <--- </a></h3>
-</div>
-<br><br>
+```python
+s = input()
+s = list(s)
+
+p = input()
+p = list(p)
+
+sLen = len(s)
+pLen = len(p)
+
+noSolutions = 0
+convertedArray = 26 * [0]
+for i in range(pLen):
+    convertedArray[ord(p[i]) - ord('a')] += 1
+
+for i in range(sLen - pLen + 1):
+    tmpConvertedArray = convertedArray.copy()
+    foundChars = pLen
+    for j in range(pLen):
+        if s[i + j] == '?':
+            foundChars -= 1
+        elif tmpConvertedArray[ord(s[i + j]) - ord('a')] > 0:
+            foundChars -= 1
+            tmpConvertedArray[ord(s[i + j]) - ord('a')] -= 1
+        else:
+            break
+
+    if foundChars == 0:
+        noSolutions += 1
+print(noSolutions)
+```
+
 
 # مربع جادویی_Magic Square
 
@@ -141,10 +171,29 @@ Put the number k in the house. If all the houses are full, the magic square is m
 In the figure below, m is equal to or one and n is equal to three. The steps of this algorithm are observed in order. As you can see, the output of the algorithm is a magic square, the sum of each row, column or diameter is equal to 15. Now write a program that first receives the number n and then the number m mentioned above and produces the magic square according to the mentioned algorithm.</h4>
 <div align="center"><img src="https://bayanbox.ir/view/5703298927176223485/11.png" alt="magic square algorithm"> </div>
 
-<div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/MagicSquare.py"> ---> GoTo Solution.py <--- </a></h3>
-</div>
-<br><br>
+```python
+def solve(n, m):
+    magic = [[0 for i in range(n)] for j in range(n)]
+    i = 0
+    j = n // 2
+    
+    for k in range(n ** 2):
+        magic[i][j] = m
+        m += 1
+        if magic[(i - 1) % n][(j + 1) % n]:
+            i += 1
+        else:
+            i = (i - 1) % n
+            j = (j + 1) % n
+    
+    return magic
+
+n, m = map(int, input().split())
+for row in solve(n, m):
+    for item in row:
+        print(item, end=' ')
+    print()
+```
 
 
 # مزرعه سماق_Sumac Farm
@@ -161,11 +210,29 @@ a_1 >= a_2 >= ... >= a_i < ... < a_n
 
 Note that i can be equal to n.</h4>
 
-
-<div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/SumacFarm.py"> ---> GoTo Solution.py <--- </a></h3>
-</div>
-<br><br>
+```python
+n = int(input())
+height = list(map(int, input().split()))
+k = 0
+t = 0
+if n != 1 and height[k] <= height[k + 1]:
+    for i in range(n - 1):
+        if height[i] > height[i + 1]:
+            for j in range(i, n - 1):
+                if height[j] <= height[j + 1]:
+                    t += 1
+                    
+elif n != 1 and height[k] >= height[k + 1]:
+    for a in range(n - 1):
+        if height[a] < height[a + 1]:
+            for b in range(a, n - 1):
+                if height[b] >= height[b + 1]:
+                    t += 1
+if t > 0:
+    print("No")
+else:
+    print("Yes")
+```
 
 
 # شماره رند_Catchy Number
@@ -182,11 +249,42 @@ Uncle Scrooge is picking catchy numbers and asks you to help him figure out catc
 </h4>
 <h6> </h6>
 
-<div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/CatchyNumber.py"> ---> GoTo Solution.py <--- </a></h3>
-</div>
-<br><br>
+```python
+def cond1(phone):
+    for i in phone:
+        cnt = 0
+        for j in phone:
+            if i == j:
+                cnt += 1
+        if cnt >= 4:
+            return True
+    return False
 
+def cond2(phone):
+    duplicated =  1
+    for i in range(1, len(phone)):
+        if phone[i] == phone[i - 1]:
+            duplicated += 1
+            if duplicated >= 3:
+                return True
+        else:
+            duplicated = 1
+    return False
+
+def cond3(phone):
+    for i in range(len(phone) // 2):
+        if phone[i] != phone[len(phone) - 1 - i]:
+            return False
+    return True
+
+t = int(input())
+for q in range(t):
+    phone = input()
+    if cond1(phone) or cond2(phone) or cond3(phone):
+        print("Ronde!")
+    else:
+        print("Rond Nist")
+```
 
 # کشف معادله_Discover the equation
 
@@ -196,10 +294,38 @@ Uncle Scrooge is picking catchy numbers and asks you to help him figure out catc
 
   Define a separate function for each of the following equations.</h4>
 
-<div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/DiscoverTheEquation.py"> ---> GoTo Solution.py <--- </a></h3>
-</div>
-<br><br>
+```python
+def one(x):
+    return x - (x // 1)
+
+def two(x):
+    return x ** 2 + x
+
+def three(x):
+    return abs(-(x ** 3) + 1) + x ** 3
+
+
+n = int(input())
+cnt = [0, 0, 0]
+
+for i in range(n):
+    x,y = map(float,input().split())
+    if abs(y - one(x)) <= 0.2:
+        cnt[0] += 1
+    if abs(y - two(x)) <= 0.2:
+        cnt[1] += 1
+    if abs(y - three(x)) <= 0.2:
+        cnt[2] += 1
+
+found = False
+for i in range(3):
+    if cnt[i] == n:
+        print(i + 1)
+        found = True
+if found == False:
+    print("No ones")
+
+```
 
 
 # آلفا قنطورس_Alpha Centauri
@@ -211,10 +337,33 @@ Kianush, who is one of the inhabitants of this planet and has 10 fingers, is ver
 
 Help him solve this programming problem.</h4>
 
-<div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/AlphaCentauri.py"> ---> GoTo Solution.py <--- </a></h3>
-</div>
-<br><br>
+```python
+def NumberToChar(number):
+    if 0 <= number <= 9:
+        return chr(ord('0') + number)
+
+    else:
+        return chr(ord('A') + number - 10)
+
+
+def baseConverter(keeper, number, base):
+    if base == 10:
+        return str(number)
+
+    else:
+        while True:
+            if number > 0:
+                keeper += NumberToChar(number % base)
+                number = int(number / base)
+            else:
+                break
+
+        return keeper[::-1]
+
+
+n, b = input().split(" ")
+print(baseConverter(keeper="", number=int(n), base=int(b)))
+```
 
 
 # اتل متل توتوله_Atal Matal Tutule
@@ -230,11 +379,32 @@ Now your program should print the progress of each step in 2n−1 lines (the num
 Note that in the case that at the end there is only one person left on both legs, you should not print the last step and the winner will be determined.</h4>
 
 
+```python
+n, k = map(int, input().split())
+foots = []
 
-<div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/AtalMatalTutule.py"> ---> GoTo Solution.py <--- </a></h3>
-</div>
-<br><br>
+for i in range(1, n + 1):
+    foots.append(i)
+    foots.append(i)
+foot_indx = 0
+foot_cnt = 1
+
+while True:
+    print(foots[foot_indx],end = ' ')
+    rmv = False
+    if foot_cnt % k == 0:
+        foots.pop(foot_indx)
+        rmv = True
+        print()           
+    if len(foots) == 1 or (len(foots) == 2 and foots[0] == foots[1]):
+        print('winner:%d'%foots[0])
+        break
+    foot_cnt += 1
+    if rmv == False:
+        foot_indx += 1
+    foot_indx %= len(foots)
+```
+
 
 
 # باغچه رز_Rose garden
@@ -246,10 +416,21 @@ In this case, the first flower was white twice, which is an even number, so the 
 
 Now, you will be given the number of months of the period and the color of each flower in each month; You have to say at the end of the period that each flower is blessed or not.
 </h4>
-<div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/RoseGarden.py"> ---> GoTo Solution.py <--- </a></h3>
-</div>
-<br><br>
+
+```python
+n,m = input().split()
+n,m = int(n),int(m)
+
+w_counter = [0 for k in range(n)]
+for i in range(m):
+    colors = input()
+    for j in range(n):
+        if colors[j]=="W":
+            w_counter[j]+=1
+
+output_list = ["F" if x%2!=0 else "B" for x in w_counter]
+print("".join(output_list))
+```
 
 # در جستجوی پدر_In search of father
 
@@ -266,11 +447,46 @@ It is preferable to write a function for adding the digits of a number, finding 
 
 Note that if you perform many operations, you may face a time limit.</h4>
 
+```python
+def digits_sum(x):
+    sum = 0
+    while x > 0:
+        sum += (x % 10)
+        x //= 10
+    return sum
 
-<div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/InSearchOfFather.py"> ---> GoTo Solution.py <--- </a></h3>
-</div>
-<br><br>
+def is_prime(a):
+    if a == 1:
+        return False
+    for i in range(2, a):
+        if a % i == 0:
+            return False
+    return True
+
+def prim_div_sum(x):
+    sum = 0
+    for i in range(2, x + 1):
+        if x % i == 0 and is_prime(i):
+            sum += i
+    return sum
+
+def d(x):
+    return x + digits_sum(x) + prim_div_sum(x)
+
+t = int(input())
+for q in range(t):
+    n = int(input())
+    found = False
+    for x in range(n):
+        if d(x) == n:
+            print("Yes")
+            found = True
+            break
+    if found == False:
+        print("No")
+        
+```
+
 
 
 # اول بینی_Find prime
@@ -279,11 +495,24 @@ Note that if you perform many operations, you may face a time limit.</h4>
   Output numbers must be separated by commas (,). 
   
   The start and end of the interval should not be considered.</h4>
+```python
+a, b = int(input()), int(input())
 
-<div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/FindPrime.py"> ---> GoTo Solution.py <--- </a></h3>
-</div>
-<br><br>
+result = ""
+for i in range(a + 1, b):
+    count = 0
+    for j in range(1, i + 1):
+        if i % j == 0:
+            count += 1
+
+    if count == 2 and not result:
+        result = str(i)
+    elif count == 2:
+        result += "," + str(i)
+
+print(result)
+```
+
 
 # تست بینایی_Vision test
 
@@ -292,11 +521,20 @@ Note that if you perform many operations, you may face a time limit.</h4>
 Mohammad Rezas places a word of English letters at a distance of two meters from the student, and the student must write exactly on it. Then Mohammad Rezas should tell him the number of wrongly written letters as the amount of blindness of this person.
 
 Mohammad Rezas is in a hurry to give the Quora competition and wants to do the vision test on a computer, so he requested that you write a program that outputs the number of mistakes by the student by taking the input of the word placed in front of the student and the word written by the student.</h4>
+```python
+letters = int(input())
+original = input()
+student = input()
 
-<div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VisionTest.py"> ---> GoTo Solution.py <--- </a></h3>
-</div>
-<br><br>
+number = 0
+
+for i in range(letters):
+    if original[i] != student[i]:
+        number += 1
+
+print(number)
+```
+
 
 # دیتابیس خیلی بزرگ_Very large database
 
@@ -315,10 +553,25 @@ then q line as ? x is given, which means whether the number x is in the sequence
 output
 In q output line, 1 is output in each line if the corresponding number is in the list and 0 otherwise. </h4>
 
-<div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/VeryLargeDatabase.py"> ---> GoTo Solution.py <--- </a></h3>
-</div>
-<br><br>
+```python
+n, q = map(int, input().split())
+numbers = input().split()
+for i in range(q):
+    question_mark,num = input().split()
+    num = int(num)
+    Min = 0
+    Max = n
+    while(Max - Min > 1):
+        mid = int((Max + Min) / 2)
+        if int(numbers[mid]) <= num:
+            Min = mid
+        elif int(numbers[mid]) > num:
+            Max = mid
+    if int(numbers[Min]) == num:
+        print(1)
+    else:
+        print(0)
+```
 
 
 # مرتبسازی خفن_Sorting out
@@ -331,10 +584,57 @@ The correct component of a positive number such as x, which we denote by ⌊x⌋
 
 You are required to provide a list of student names in sorted order. In this list, the first student is the best. </h4>
 
-<div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/SortingOut.py"> ---> GoTo Solution.py <--- </a></h3>
-</div>
-<br><br>
+```python
+n = int(input())
+names = []
+averages = []
+sports = []
+perm = []
+
+
+for i in range(0, n):
+    perm.append(i)
+    name = input()
+    names.append(name)
+    data = input().split(" ")
+    count = int(data[0])
+    sum = 0
+    for j in range(0, count):
+        sum += float(data[j + 1])
+
+    averages.append(sum / count)
+
+    data = input().split(" ")
+    count = int(data[0])
+
+    sports.append(count)
+
+
+def better(id1, id2):
+    if int(averages[id1]) != int(averages[id2]):
+        if averages[id1] > averages[id2]:
+            return True
+        return False
+    if sports[id1] != sports[id2] :
+        if(sports[id1] > sports[id2]):
+            return True
+        return False
+    if id1 < id2:
+        return True
+    return False
+
+for i in range(0, n - 1):
+    for j in range(1, n):
+        if(better(perm[j], perm[j - 1])):
+            temp = perm[j]
+            perm[j] = perm[j - 1]
+            perm[j - 1] = temp
+
+for i in range(0, n):
+    print (names[perm[i]])
+
+```
+
 
 # مثلث خیام پاسکال_Pascal's triangle
 
@@ -345,10 +645,29 @@ Khayyam Pascal's triangle is such that there is only one number 1 in the first r
 <div align="center"><img src="https://s8.uupload.ir/files/pascaltriangleanimated2_6pe.gif" alt="pascals triangle"></div>
 </h4>
 
-<div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/PascalsTriangle.py"> ---> GoTo Solution.py <--- </a></h3>
-</div>
-<br><br>
+```python
+def printPascal(n):
+    for line in range(0, n):
+        for i in range(0, line + 1):
+            print(binomialCoeff(line, i),
+                  " ", end="")
+        print()
+
+
+def binomialCoeff(n, k):
+    res = 1
+    if (k > n - k):
+        k = n - k
+    for i in range(0, k):
+        res = res * (n - i)
+        res = res // (i + 1)
+    return res
+
+
+n = int(input())
+printPascal(n)
+```
+
 
 # تغییرات آرایوی_Arrays change
 
@@ -360,7 +679,23 @@ In this question, we want to create a simple database using an array. Suppose al
   all the numbers that were previously in positions i to n move forward by one unit.
 </h4>
 
-<div align="center">
-<h3><a href="https://github.com/rezaaebraahimi/Quera-python-problem-solving/blob/main/Python%20Solutions/ChangeableArrays.py"> ---> GoTo Solution.py <--- </a></h3>
-</div>
-<br><br>
+```python
+ls = []
+chr_inpt = []
+
+q = int(input())
+
+for n in range(q):
+    chr_inpt = list(input().split())
+    
+    if chr_inpt[0] == '+': 
+        ls.insert(int(chr_inpt[1])-1,int(chr_inpt[2]))
+        print(*ls, sep=' ')
+
+    elif chr_inpt[0] == '-':
+        ls.pop(int(chr_inpt[1])-1)
+        print(*ls, sep=' ')
+        if ls == []:
+            print('EMPTY')
+            pass
+```
