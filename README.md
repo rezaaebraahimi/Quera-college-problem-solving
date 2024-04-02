@@ -7,7 +7,7 @@
 
 <br>
 
-<h1>Link to my valid certification at Quera College:
+<h1>Link to my valid certification at Quera College:<br>
 <a href="https://quera.org/certificate/wnC1vy5y/"> View Certification  </a>
 </h1><br>
 
